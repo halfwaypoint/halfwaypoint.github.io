@@ -1,0 +1,20 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+        <p><center>{{ site.description }}</center>
+		<center>          
+			{% if site.twitter_username %}
+            {% include icon-twitter.html username=site.twitter_username %}
+          {% endif %}
+          {% if site.github_username %}
+            &nbsp;&nbsp;{% include icon-github.html username=site.github_username %}
+          {% endif %}
+		   &nbsp; <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></center></p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
