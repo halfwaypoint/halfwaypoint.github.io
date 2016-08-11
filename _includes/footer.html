@@ -3,15 +3,16 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-        <p><center>{{ site.description }}</center>
-		<center>          
-			{% if site.twitter_username %}
-            {% include icon-twitter.html username=site.twitter_username %}
-          {% endif %}
-          {% if site.github_username %}
-            &nbsp;&nbsp;{% include icon-github.html username=site.github_username %}
-          {% endif %}
-		   &nbsp; <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></center></p></p>
+        <p>
+	 	   <center>
+	 		   Hosted by <a href="http://adithya.github.io">Adithya Sudarsan</a>. 
+	 		</center>
+			<center>
+			   <a href="mailto:halfwaypointshow@gmail.com">halfwaypointshow@gmail.com</a> | <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+			<center>
+				{{ site.description }}
+			</center>
+   </p></p>
       </div>
     </div>
 

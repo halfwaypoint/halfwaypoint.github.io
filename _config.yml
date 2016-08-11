@@ -9,7 +9,6 @@
 title: Halfway Point
 email: halfwaypointshow@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- © 2016 Halfway Point.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://halfwaypoint.github.io" # the base hostname & protocol for your site
 port: 3000 # change server port to 3000
