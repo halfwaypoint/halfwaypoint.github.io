@@ -1,7 +1,8 @@
 ---
 title:  "#1 - Instagram Stories"
 layout: post
-date:   2016-08-12 9:50:00 -0500
+date:   2016-08-18 23:02:00 -0500
 
 ---
 
+<script src="http://www.buzzsprout.com/64283/413567-ep1-halfway-point-instagram-stories-edited-mp3.js?player=small" type="text/javascript" charset="utf-8"></script>
