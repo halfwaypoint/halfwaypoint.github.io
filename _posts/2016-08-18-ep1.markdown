@@ -1,0 +1,11 @@
+---
+title:  "1: Instagram Stories"
+layout: post
+date:   2016-08-18 23:02:00 -0500
+categories: apps
+---
+
+Adithya Shares his thoughts on Instagram Stories. 
+
+<script src="https://www.buzzsprout.com/64283.js?player=small" type="text/javascript" charset="utf-8"></script>
+
