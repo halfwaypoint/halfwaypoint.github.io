@@ -32,5 +32,34 @@ layout: null
 <itunes:duration>10:41</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 </item>
+<item>
+<title>2: Following Up on Snapchat</title>
+<description>
+<![CDATA[
+<ul>
+<li><a href="https://www.relay.fm/connected/110">Connected #110</a></li>
+<li>Statechery Articles refrenced:
+	<ul>
+		<li><a href="https://stratechery.com/2015/old-fashioned-snapchat/">"Old-Fashioned Snapchat"</a></li>
+		<li><a href="https://stratechery.com/2016/snapchat-spectacles-and-the-future-of-wearables/">"Snapchat Spectacles and the Future of Wearable"</a></li>
+	</ul>
+</li>
+<li><a href="http://exponent.fm/">Ben Thompson's excellent podcast, Exponent.</a></li>
+<li><a href="https://youtu.be/q43MoyiFK50">An example of an excellent Snapchat Discover Story</a></li>
+<li><a href="https://www.spectacles.com/">Snapchat Spectacles</a></li>
+<li><a href="https://www.snapchat.com/ads">Snapchat Ads Page</a></li>
+</ul>
+]]>
+</description>
+<itunes:author>Adithya Sudarsan</itunes:author>
+<itunes:subtitle>Adithya follows up on the last episode by expanding on his thoughts about Snapchat.</itunes:subtitle>
+<itunes:summary>Adithya follows up on the last episode by expanding on his thoughts about Snapchat.</itunes:summary>
+<itunes:image href="http://halfwaypoint.github.io/assets/show-artwork.png"/>
+<enclosure length="5144704" type="audio/mpeg" url="https://ia601504.us.archive.org/27/items/halfwaypoint-ep-02/Ep-2-HalfwayPoint.mp3"/>
+<guid>2: Following Up on Snapchat</guid>
+<pubDate>Fri, 21 Oct 2016 18:00:00 EST</pubDate>
+<itunes:duration>22:05</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
 </channel>
 </rss>
